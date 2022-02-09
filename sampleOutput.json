@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jeff Zeleny and Gabby Orr, CNN",
+            "title": "Three words that sparked GOP firestorm were not part of early draft of Cheney-Kinzinger resolution - CNN",
+            "description": "The three words about the US Capitol attack that have sparked a firestorm inside the Republican Party -- \"legitimate political discourse\" -- were not included in early drafts of the resolution to censure Reps. Liz Cheney and Adam Kinzinger, a person involved …",
+            "url": "https://www.cnn.com/2022/02/09/politics/cheney-kinzinger-republican-firestorm-legitimate-political-discourse-rnc-resolution/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220209105948-cheney-kinzinger-file-restricted-super-tease.jpg",
+            "publishedAt": "2022-02-09T18:31:00Z",
+            "content": "Washington (CNN)The three words about the US Capitol attack that have sparked a firestorm inside the Republican Party -- \"legitimate political discourse\" -- were not included in early drafts of the r… [+1188 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Michael Crider",
+            "title": "Valve Steam Deck wows reviewers: 'The most innovative gaming PC in 20 years' - PCWorld",
+            "description": "A few lucky YouTubers have initial hardware and gameplay impressions of the Steam Deck, Valve's portable gaming PC.",
+            "url": "https://www.pcworld.com/article/612746/valve-steam-deck-wows-reviewers-most-innovative-gaming-pc-in-20-years.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2022/02/steam-deck-hero-header-4.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2022-02-09T18:09:04Z",
+            "content": "Skip to contentType your search and hit enter\r\nThe Steam Deck, Valve’s take on a Switch-style portable PC gaming machine, is perhaps the most anticipated piece of portable hardware since…well, since … [+8170 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Jonathan Weisman",
+            "title": "Pelosi Says She Would Accept Stock Ban for Lawmakers and Judges - The New York Times",
+            "description": "The speaker had resisted a ban, which has been championed by lawmakers in competitive re-election races. Now she says she would be open to it if it included the judicial branch.",
+            "url": "https://www.nytimes.com/2022/02/09/us/politics/pelosi-stock-trading-congress.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/09/us/politics/09dc-stocks-SWAP/09dc-stocks-SWAP-facebookJumbo.jpg",
+            "publishedAt": "2022-02-09T17:48:12Z",
+            "content": "She also called for stricter penalties on lawmakers who flout existing rules on reporting stock ownership and trading under a 2012 law called the Stop Trading on Congressional Knowledge (STOCK) Act.\r… [+1479 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Kevin Breuninger, Dan Mangan",
+            "title": "Trump lawyer Rudy Giuliani and other aides asked GOP prosecutor to give them Michigan county voting machines after 2020 election, report says - CNBC",
+            "description": "Giuliani was scheduled to sit this week for a deposition as part of the House select committee's investigation of the Jan. 6 Capitol riot by a pro-Trump mob.",
+            "url": "https://www.cnbc.com/2022/02/09/trump-lawyer-rudy-giuliani-sought-voting-machines-from-gop-michigan-prosecutor.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106931167-16294806172021-08-20t172718z_863297990_rc2z8p95ra22_rtrmadp_0_usa-giuliani.jpeg?v=1644426847",
+            "publishedAt": "2022-02-09T17:45:19Z",
+            "content": "Rudy Giuliani and other legal advisors to then-President Donald Trump asked a Republican prosecutor in Michigan to give his county's voting machines to Trump's team in the wake of his loss to Joe Bid… [+2273 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Bacon and Celina Tebor, USA TODAY",
+            "title": "New York rolls back mask mandates; Florida surgeon general won't reveal vaccination status: Live COVID-19 updates - USA TODAY",
+            "description": "Across the country, indoor mask requirements in blue states are falling like dominoes as COVID cases drop. Latest news.",
+            "url": "https://www.usatoday.com/story/news/health/2022/02/09/covid-mask-mandates-cases-vaccinations/6712215001/",
+            "urlToImage": "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2022/02/03/USATODAY/usatsports/a-covid-19-coronavirus-pandemic-stock-to-buy.jpg?auto=webp&format=pjpg&width=1200",
+            "publishedAt": "2022-02-09T17:30:33Z",
+            "content": "New York state will end a mandate requiring face coverings in most indoor public settings but will keep school masking rules in place, Gov. Kathy Hochul announced Wednesday.\r\nNew York is the latest i… [+8929 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Umar Shakir",
+            "title": "Everything you need to know from Samsung’s Galaxy Unpacked 2022 event - The Verge",
+            "description": "Samsung held its virtual Galaxy Unpacked 2022 event and announced a new S22 Ultra that is the rebirth of the Note. The regular Galaxy S22 and S22 Plus are smaller updates, while the Galaxy Tab S8 Ultra is a huge new Android tablet with a notch.",
+            "url": "https://www.theverge.com/2022/2/9/22925259/samsung-galaxy-s22-ultra-unpacked-2022-biggest-announcements",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/uitKK9YwN4cnfePN9mBHBF4FDiw=/0x470:6566x3908/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23227451/1_19_Galaxy_S22_Ultra_Group_Image2_design_HI.jpg",
+            "publishedAt": "2022-02-09T17:12:16Z",
+            "content": "Galaxy Note is reborn as an S series phone"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Joe Skrebels",
+            "title": "Microsoft Confirms Activision Blizzard Will Release Games on PlayStation 'Beyond Existing Agreements' - IGN - IGN",
+            "description": "Microsoft has confirmed that \"Call of Duty and other popular Activision Blizzard titles\" will not just be released on PlayStation to honor existing contracts, but \"beyond the existing agreement and into the future.\"",
+            "url": "https://www.ign.com/articles/micosoft-activision-blizzard-call-of-duty-playstation-sony-nintendo-contracts",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/02/09/xbox-acti-blizz-1642539339263-1-1644425238481.jpg?width=1280",
+            "publishedAt": "2022-02-09T17:03:45Z",
+            "content": "Microsoft has confirmed that \"Call of Duty and other popular Activision Blizzard titles\" will not just be released on PlayStation to honor existing contracts, but \"beyond the existing agreement and i… [+2613 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BuzzFeed News"
+            },
+            "author": "Leyla Mohammed",
+            "title": "Kanye West Publicly Begged God To Bring His \"Family Back Together” Just Hours After Julia Fox Brushed Off His “Residual Feelings” For Kim Kardashian And Said They’re Boyfriend And Girlfriend - BuzzFeed News",
+            "description": "“I call him my boyfriend and he calls me his girlfriend... I’m sure there’s still some residual feelings. That’s human. But I know that he’s with me now.”",
+            "url": "https://www.buzzfeednews.com/article/leylamohammed/kanye-west-begs-kim-kardashian-julia-fox-residual-feelings",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-02/9/16/enhanced/4bcff052cc45/original-605-1644423689-5.jpg?crop=1243:651;7,0%26downsize=1250:*",
+            "publishedAt": "2022-02-09T16:48:15Z",
+            "content": "A BuzzFeed News investigation, in partnership with the International Consortium of Investigative Journalists, based on thousands of documents the government didn't want you to see.\r\nREAD NOW"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Logan Moore",
+            "title": "CVS Stock Is Tumbling. Lowered Range for Cash-Flow Guidance Unnerved Investors. - Barron's",
+            "description": "Pharmacy chain CVS reported a strong fourth quarter, but lowered the bottom range for its 2022 outlook for cash flow.",
+            "url": "https://www.barrons.com/articles/cvs-stock-earnings-51644409136",
+            "urlToImage": "https://images.barrons.com/im-333690/social",
+            "publishedAt": "2022-02-09T16:45:00Z",
+            "content": "The pharmacy chain reported fourth-quarter revenue of $76.6 billion, beating the FactSet consensus of $75.6 billion. Adjusted earnings per share were $1.98, which topped the FactSet consensus of $1.8… [+2519 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Li Li",
+            "title": "Florida Senate committee passes \"Don't Say Gay\" bill that would bar LGBTQ discussions in schools - CBS News",
+            "description": "Florida Governor Ron DeSantis said he doesn't support \"injecting these concepts about choosing your gender\" at schools.",
+            "url": "https://www.cbsnews.com/news/florida-dont-say-gay-bill-lgbtq-schools/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/02/09/c9bbf20f-7e48-4dcb-a48e-e6e9939264c7/thumbnail/1200x630/0c97e694ea4676f9c8989c725ca11707/gettyimages-1236742445.jpg",
+            "publishedAt": "2022-02-09T16:41:00Z",
+            "content": "The Florida Senate Education Committee passed a controversial bill on Tuesday that would bar school districts from encouraging classroom discussion about sexual orientation or gender identity. The Pa… [+5434 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Charles Pulliam-Moore",
+            "title": "Bel-Air trades in The Fresh Prince’s Black joy for overwrought prestige - The Verge",
+            "description": "Peacock’s Bel-Air from co-creators Morgan Cooper and Will Smith has all the makings of being great reboot, but it can’t get past its own sense of what prestige is",
+            "url": "https://www.theverge.com/22906769/bel-air-peacock-review-fresh-prince",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/bcyg3zAP00Umm9sLTaoHOcIizJQ=/0x62:1600x900/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23227629/2_1.jpeg",
+            "publishedAt": "2022-02-09T16:00:33Z",
+            "content": "NBCs Fresh Prince of Bel-Airwas always a comedy with a pointed focus on celebrating Blackness while also illustrating how there is no singular way to be Black. Bel-Air, Peacocks new single-cam reimag… [+6927 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Sheetz",
+            "title": "SpaceX to lose as many as 40 Starlink satellites due to space storm - CNBC",
+            "description": "Elon Musk's SpaceX lost nearly an entire launch's worth of Starlink satellites last week after a storm created by the sun struck the Earth's atmosphere.",
+            "url": "https://www.cnbc.com/2022/02/09/spacex-losing-starlink-satellites-due-to-geomagnetic-space-storm.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107012981-1644411816089-spacex_starlink_satellites_211113.png?v=1644412048",
+            "publishedAt": "2022-02-09T15:53:49Z",
+            "content": "A batch of Starlink satellites deploy in orbit after a launch on Nov. 13, 2021.\r\nElon Musk's SpaceX expects to lose nearly an entire launch's worth of Starlink satellites after a storm created by the… [+4201 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Rebecca Smith, Rebecca Ballhaus",
+            "title": "Program to Cut Student Debt Sticks Some With Even More - The Wall Street Journal",
+            "description": "Healthcare workers can get loan relief for serving needy areas, but if they lose their jobs, they face giant penalties for not fulfilling their contracts",
+            "url": "https://www.wsj.com/articles/program-to-cut-healthcare-providers-student-debt-sticks-some-with-even-more-11644421910",
+            "urlToImage": "https://images.wsj.net/im-476569/social",
+            "publishedAt": "2022-02-09T15:51:00Z",
+            "content": "Thousands of healthcare workers join the National Health Service Corps each year, pledging to work in places with too few medical providers in exchange for help repaying their student loans.Job disru… [+14296 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": null,
+            "title": "Parker Solar Probe Captures Visible Light Images of Venus' Surface - NASA",
+            "description": "NASA’s Parker Solar Probe has taken its first visible light images of the surface of Venus from space.",
+            "url": "https://www.nasa.gov/feature/goddard/2022/sun/parker-solar-probe-captures-its-first-images-of-venus-surface-in-visible-light-confirmed/",
+            "urlToImage": "http://www.nasa.gov/sites/default/files/thumbnails/image/banner_wispr_magellan.jpg",
+            "publishedAt": "2022-02-09T15:32:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Paulina Dedaj",
+            "title": "Russian figure skater's positive drug test after winning gold in team event delays medal ceremony: report - Fox News",
+            "description": "The International Olympic Committee delayed the medal ceremony for the team figure skating competition on Tuesday over what it said were “legal issues,” but according to one report, a Russian skater has tested positive for drugs.",
+            "url": "https://www.foxnews.com/sports/russian-figure-skaters-positive-drug-test-gold-delays-medal-ceremony",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/02/GettyImages-1369117346.jpg",
+            "publishedAt": "2022-02-09T15:18:49Z",
+            "content": "The International Olympic Committee\r\n delayed the medal ceremony for the team figure skating competition on Tuesday over what it said were \"legal issues,\" but according to one report, a Russian\r\n ska… [+2452 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Phillip Tracy",
+            "title": "Samsung's New Galaxy Tab S8 Ultra Is a Giant iPad Pro Rival - Gizmodo",
+            "description": "The high-end Tab S8 Ultra will join the Tab S8 and Tab S8+.",
+            "url": "https://gizmodo.com/samsung-galaxy-tab-s8-ultra-specs-price-preorders-1848502748",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dc595c2e19fb5f77a4e29c373d0f5bbc.jpg",
+            "publishedAt": "2022-02-09T15:00:00Z",
+            "content": "Samsungs new flagship Galaxy Tab S8 tablets have arrived, and there is a new Ultra member in the family. Much like its smartphone counterpart, the Galaxy Tab S8 Ultra is larger, more powerful, and pr… [+10399 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Greg Evans",
+            "title": "Steven Spielberg’s ‘West Side Story’ Sets Disney+ & HBO Max Debut Date - Deadline",
+            "description": "Steven Spielberg’s Oscar-nominated West Side Story will makes its streaming debut on Disney+ in the U.S. and most international countries on March 2, the streamer announced today. The musical will arrive on HBO Max the same day. In addition, an ABC one-hour s…",
+            "url": "https://deadline.com/2022/02/west-side-story-disney-plus-debut-date-1234929510/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/12/West-Side-Story-CAROUSEL-ONLY-1.jpg?w=585",
+            "publishedAt": "2022-02-09T14:29:00Z",
+            "content": "Steven Spielberg’s Oscar-nominated West Side Story will makes its streaming debut on Disney+ in the U.S. and most international countries on March 2, the streamer announced today. The musical will ar… [+731 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "syracuse.com"
+            },
+            "author": "Geoff Herbert | gherbert@syracuse.com",
+            "title": "National Pizza Day 2022 deals: How to get free pizza today - syracuse.com",
+            "description": "Celebrate with a slice or a whole pie.",
+            "url": "https://www.syracuse.com/food/2022/02/national-pizza-day-2022-deals-how-to-get-free-pizza-today.html",
+            "urlToImage": "https://www.syracuse.com/resizer/YwnNifTF1Asyzc1_Wpoq-mHy7oM=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5NQHXGDQV5ACVDZJXZX2X22G7Y.jpg",
+            "publishedAt": "2022-02-09T14:17:00Z",
+            "content": "Happy National Pizza Day! Wednesday, Feb. 9, 2022, is a holiday to celebrate pizza, whether you like it by the slice or a whole pie.\r\nNational chains and a few local ones are celebrating National Piz… [+2905 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sandee LaMotte, CNN",
+            "title": "Changing your diet could add up to 13 years to your life, study says - CNN",
+            "description": "Switching from a typical Westernized diet of red meat and processed foods can add up to 13 years to your life if you start at age 20, but even people in their 60s can add years.",
+            "url": "https://www.cnn.com/2022/02/08/health/longer-life-diet-wellness/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220208132948-lentils-beans-dish-stock-super-tease.jpeg",
+            "publishedAt": "2022-02-09T14:05:00Z",
+            "content": "(CNN)Changing what you eat could add up to 13 years to your life, according to a newly published study, especially if you start when you are young.\r\nThe study created a model of what might happen to … [+5767 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Hot Inflation Data Risk Pushing Fed Closer to a Super-Sized Hike - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=610f96de-89c9-11ec-8590-6f496e4c6854&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wMi0wOS9ob3QtaW5mbGF0aW9uLWRhdGEtcmlzay1wdXNoaW5nLWZlZC1jbG9zZXItdG8tYS1zdXBlci1zaXplZC1oaWtl",
+            "urlToImage": null,
+            "publishedAt": "2022-02-09T14:04:05Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        }
+    ]
+}
